@@ -25,12 +25,12 @@ End-to-end ML project for identifying dissatisfied customers in a highly imbalan
 
 → [View project](https://github.com/djsruptor/customer-satisfaction-prediction)
 
-### Bullseye
+### Investment Portfolio Tracking Solution
 Personal portfolio-tracking system built around a PostgreSQL transaction ledger, with a Telegram interface for portfolio operations, automated market and FX updates, fixed-income accruals, and a Streamlit analytics dashboard.
 
 Built with Python, PostgreSQL, Streamlit, external market-data APIs, Docker, and automated background workflows.
 
-→ [View project](https://github.com/djsruptor/Bullseye)
+→ [View project](https://github.com/djsruptor/Financial-Portfolio-Tracking-Solution)
 
 ## Stack
 
