@@ -1,8 +1,8 @@
 # Hi, I'm Juan
 
-I build data products at the intersection of **analytics, automation, and applied AI**.
+I build products that sit at the intersection of **analytics, automation and applied AI**.
 
-My background is in business and analytics, so I tend to approach technical projects from the decision or operational problem first, then work backward into the data, modeling, and engineering required to solve it.
+My background is in business and analytics, so I usually start with the business goal and desired outcome, and then work backward into the data, modeling, and engineering needed to solve it.
 
 Most of what you'll find here revolves around:
 
@@ -34,22 +34,20 @@ Built with Python, PostgreSQL, Streamlit, external market-data APIs, Docker, and
 
 ## Stack
 
-`Python` · `SQL` · `Streamlit` · `PostgreSQL` · `FastAPI` · `Docker` · `Machine Learning`
+`Python` · `SQL` · `Docker` · `Streamlit` · `FastAPI` · `PostgreSQL`
 
 ## What I'm exploring
 
-I'm interested in building more with AI, particularly where it makes an impact without sacrificing **data quality and governance**.
+I would love to build more with AI, particularly where it can make a real impact without sacrificing **data quality and governance**.
 
-I’m less interested in AI as a standalone feature and more in how it can be embedded into real data workflows with clear validation, traceability, and controls.
+I’m particularly interested in how AI can be embedded into real data workflows with clear validation, human oversight, and auditable outputs.
 
 Areas I'm currently exploring include:
 
 - AI-assisted data quality and validation
 - Governed automation
-- Human-in-the-loop review
-- Reliable use of LLMs in business workflows
-- Data lineage, auditability, and provenance
 - Decision-support systems
+- Reliable use of LLMs in business workflows
 
 ## Elsewhere
 
